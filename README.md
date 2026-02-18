@@ -7,7 +7,7 @@ Predict whether a passenger survived the Titanic disaster using machine learning
 - [Features](#features)
 - [Project Structure](#project-structure)  
 - [Installation](#installation)    
-- ]
+  
 ## Overview
 
 This repository focuses on predicting the survival of Titanic passengers using machine learning techniques. The approach includes thorough exploratory data analysis, data preprocessing to handle missing data and feature engineering, and evaluating several classification models like Random Forest, Decision Tree, XGBoost, Extra Trees, and Logistic Regression. The final model, Random Forest, achieved an accuracy of approximately **82.68%**.
